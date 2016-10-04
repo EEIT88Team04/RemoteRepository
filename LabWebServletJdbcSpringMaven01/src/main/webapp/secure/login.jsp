@@ -12,9 +12,11 @@
 </head>
 <body>
 
+
 <h3>Login</h3>
 
-<form action=${pageContext.request.contextPath}"/controller/OO" method="get">
+
+<form action=${pageContext.request.contextPath}/controller/OO method="get">
 
 
 <table>
