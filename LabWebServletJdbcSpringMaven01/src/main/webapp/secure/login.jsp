@@ -14,7 +14,14 @@
 
 <h3>Login</h3>
 
+<<<<<<< HEAD
 <form action="<c:url value="/secure/login.controller" />" method="get">
+=======
+
+<form action=${pageContext.request.contextPath}/controller/OO method="get">
+
+
+>>>>>>> branch 'master' of https://github.com/EEIT88Team04/RemoteRepository1004.git
 <table>
 	<tr>
 		<td>ID : </td>
