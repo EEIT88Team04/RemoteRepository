@@ -14,7 +14,8 @@
 
 <h3>Login</h3>
 
-<form action="<c:url value="/secure/login.controller" />" method="get">
+<form action="${pageContext.request.contextPath}/controller/OO" method="get">
+
 <table>
 	<tr>
 		<td>ID : </td>
