@@ -18,7 +18,7 @@
 <form action="<c:url value="/secure/login.controller" />" method="get">
 =======
 
-<form action=${pageContext.request.contextPath}"/controller/OO" method="get">
+<form action=${pageContext.request.contextPath}/controller/OO method="get">
 
 
 >>>>>>> branch 'master' of https://github.com/EEIT88Team04/RemoteRepository1004.git
