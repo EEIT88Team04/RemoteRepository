@@ -5,8 +5,6 @@
 	<artifactId>LabWebServletJdbcSpringMaven01</artifactId>
 	<packaging>war</packaging>
 
-	 
-
 	<version>1.0</version>
 
 	<name>LabWebServletJdbc01 Maven Webapp</name>
