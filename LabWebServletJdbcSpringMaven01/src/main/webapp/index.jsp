@@ -9,12 +9,16 @@
 </head>
 <body>
 
+<h3>hohoho </h3>
+<h3>hahaha </h3>
+
 <h3>Welcome </h3>
 
 
 <h3><a href="<c:url value="/secure/login.jsp" />">Login</a></h3>
-<h3><a href="<c:url value="/pages/product.jsp" />">Product</a></h3>
-<h3><a href=${pageContext.request.contextPath}/TestServlet>Test</a></h3>
+<h3><a href="<c:url value="/pages/product.jsp" />">Poduct</a></h3>
+<h3><a href=${pageContext.request.contextPath}/TestServlet.controller >Test</a></h3>
+
 
 </body>
 </html>
